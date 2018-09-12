@@ -1,6 +1,6 @@
-# linux-configs
+# NVIM & ZSH config
 
-### Configuration dotfiles for nvim
+### Configuration dotfile for nvim
 
 Included plugins
 
